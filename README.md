@@ -1,4 +1,4 @@
-##  **Hello, Anna here** 👋   
+##  **Hello, Anna here** 👋🏼   
 
 📊 Data enthusiast with a Software Engineering background transitioning into Data Science   
 🏛️ BS in Software Engineering from UT Dallas,  Data Science Post Graduate from UT Austin (2024)  
